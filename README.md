@@ -1,5 +1,6 @@
 ### Hi there 👋🌱
 
+<img src="./img/python.webp">
 <!--
 **sierra182/sierra182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
