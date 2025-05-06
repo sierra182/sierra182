@@ -1,4 +1,7 @@
-### Hi there 🌱
+### Hi I'm Sebastien 😁
+
+### About me 🌳
+🎓 Studying at 42 School
 
 ### My Skills 🌱
 <div>
