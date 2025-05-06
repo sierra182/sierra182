@@ -1,14 +1,18 @@
-### Hi there 👋🌱
+### Hi there 🌱
 
-### My Skills👋🌱
-<img src="./img/blazor.png" style="width:5rem">
-<img src="./img/c.webp" style="width:5rem">
-<img src="./img/c++.webp" style="width:5rem">
-<img src="./img/csharp.webp" style="width:5rem">
-<img src="./img/django.png" style="width:5rem">
-<img src="./img/docker.webp" style="width:5rem">
-<img src="./img/web.png" style="width:5rem">
-<img src="./img/python.png" style="width:5rem">
+### My Skills 🌱
+<div>
+  <img src="./img/blazor.png" style="width:5rem">
+  <img src="./img/c.webp" style="width:5rem">
+  <img src="./img/c++.webp" style="width:72px">
+  <img src="./img/csharp.webp" style="width:5rem">
+  <img src="./img/django.png" style="width:5rem">
+  <img src="./img/docker.webp" style="width:5rem">
+  <img src="./img/web.png" style="width:5rem">
+  <img src="./img/python.png" style="width:5rem">
+</div>
+
+
 <!--
 **sierra182/sierra182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
