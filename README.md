@@ -1,8 +1,8 @@
 ### Hi I'm Sebastien 😁
 
 ### About me 🌳
-🎓 Studying at 42 School  
-📫 How to reach me: [Email](mailto:svidot@student.42perpignan.fr)
+&nbsp;&nbsp;🎓 Studying at 42 School  
+&nbsp;&nbsp;📫 How to reach me: [Email](mailto:svidot@student.42perpignan.fr)
 
 ### My Skills 🌱
 <div>
