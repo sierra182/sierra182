@@ -4,7 +4,7 @@
 <img src="./img/blazor.png" style="width:5rem">
 <img src="./img/c.webp" style="width:5rem">
 <img src="./img/c++.webp" style="width:5rem">
-<img src="./img/c#.webp" style="width:5rem">
+<img src="./img/csharp.webp" style="width:5rem">
 <img src="./img/django.png" style="width:5rem">
 <img src="./img/docker.webp" style="width:5rem">
 <img src="./img/web.png" style="width:5rem">
